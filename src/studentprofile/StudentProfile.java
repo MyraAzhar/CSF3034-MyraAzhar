@@ -17,6 +17,8 @@ public class StudentProfile {
         System.out.println("Name: Nur Amira Natasha Binti Azhar");
         System.out.println("Student ID: S86444");
         System.out.println("Programme: Bachelor of Computer Science with Maritime Informtatics(Honours)");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
         // TODO code application logic here
     }
     
