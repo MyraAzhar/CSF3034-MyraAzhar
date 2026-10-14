@@ -29,6 +29,7 @@ public class StudentInformationSystem {
             System.out.println("Result: Good");
         }else {
             System.out.println("Result: Needs Improvement");
+            System.out.println("Course: Bachelor of computer science with maritime informatics");
         }
         // TODO code application logic here
     }
